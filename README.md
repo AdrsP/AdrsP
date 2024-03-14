@@ -1,5 +1,5 @@
 ![](./img/wepik-export-20240314193633swtZ.jpeg)
-## Well hello there, im Andrés another voyager exploring this wonderful world striving to go beyond !!
+## Glad that you are here, i'm Andrés another voyager exploring this wonderful world striving to go beyond !!
 
 - 🧑🏼‍🚀Hi, I’m @AdrsP Full Stack Software Developer
 - 🔭 I’m interested in science and making new things that would help to develop the world.
