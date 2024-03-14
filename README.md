@@ -1,14 +1,14 @@
 ![](./img/wepik-export-20240314193633swtZ.jpeg)
 ## Well hello there, im Andrés another voyager exploring this wonderful world striving to go beyond !!
 
-- 👋 Hi, I’m @AdrsP
+- 👋 Hi, I’m @AdrsP Full Stack Software Developer
 - 👀 I’m interested in science and making new things that would help to develop the world.
 - 🌱 I’m currently learning everything that i can.
 - 👯 I’m looking to collaborate with other enthusiast.
 - ⚡ Fun fact: By the laws of thermodynamics the entropy of the universe just keeps growing this means,
 - that everything is irreversible so dont go around beliving you can undo things, so take great consideration
 - when chosing what to do in your life, explore a little, but try to do not mess around too much.
-- 🥅 2024 Goals: Learn more about machine learning and IA.
+- 🥅 2024 Goals: Keep growing in the wonderful world of web development.
 
 ### Connect with me:
 
