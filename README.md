@@ -5,9 +5,9 @@
 - 🔭 I’m interested in science and making new things that would help to develop the world.
 - 🛰️ I’m currently learning more about Back End Development and APIs
 - 👯 I’m looking to collaborate with other enthusiast.
-- ☄️ Fun fact: By the laws of thermodynamics the entropy of the universe just keeps growing this means,
-  that everything is irreversible so dont go around beliving you can undo things, so take great consideration
-  when chosing what to do in your life, explore a little, but try to do not mess around too much.
+- ☄️ Fun fact: Did you know that seeing ghosts is as easy as raising your head to the night sky?
+The light that we can observe from the stars left them thousands of years ago and what we can see is a photo of the past,
+by the time you see them it is possible that some stars do not exist, which is why you would be seeing a ghost.
 - 🌠 2024 Goals: Keep growing in the wonderful world of web development.
 
 ### Connect with me:
